@@ -2,8 +2,6 @@
 
 AI coding agents such as Claude Code are rapidly entering scientific work, but most researchers adopt them without guidance on security, personal data, or good practice. This organization hosts the material for a two-part workshop series on Git and AI-assisted research, along with a practical proposal for making AI assistance in research transparent and reviewable.
 
-All material is published as Open Educational Resources and is free for any group to reuse.
-
 ## The workshop series
 
 Both workshops are capped at 20 participants and are designed to be taken together: the first sets the foundations that the second builds on.
