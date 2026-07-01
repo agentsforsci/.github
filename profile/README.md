@@ -8,6 +8,8 @@ All material is published as Open Educational Resources and is free for any grou
 
 Both workshops are capped at 20 participants and are designed to be taken together: the first sets the foundations that the second builds on.
 
+**Sign up:** [Registration form for both workshops](https://forms.gle/Zf5fPsPJqUxEoLgKA)
+
 ### Workshop 1: Git and GitHub for collaboration in scientific work
 
 **15 July 2026, 09:30 to 14:30 (lunch catering included)**
