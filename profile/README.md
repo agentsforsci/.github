@@ -43,14 +43,6 @@ Transparency about AI assistance is becoming a core reproducibility question, ye
 
 Together, these make AI-assisted research transparent and reviewable by others, and they offer journals a concrete mechanism: require the prompts folder alongside the manuscript, with an overview of how the human and AI contributions can be reviewed.
 
-## Reuse
-
-All workshop material in this organization is openly licensed. You are welcome to reuse, adapt, and teach from it.
-
 ## Funding and support
 
-This workshop series is supported by:
-
-- The [Swiss Reproducibility Network (SwissRN)](https://www.swissrn.org/contents/community/nodes/) local node work at ETH Zurich
-- The [Data Stewardship Network at ETH Zurich](https://library.ethz.ch/en/researching-and-publishing/data-management-and-policies/research-data-management/data-stewardship.html), funded by the [swissuniversities Open Science Programme](https://www.swissuniversities.ch/en/topics/open-science/open-science-programme)
-- The [Global Health Engineering group at ETH Zurich](https://ghe.ethz.ch/)
+**Funding and support:** [Swiss Reproducibility Network (SwissRN)](https://www.swissrn.org/contents/community/nodes/) local node at ETH Zurich | [Data Stewardship Network at ETH Zurich](https://library.ethz.ch/en/researching-and-publishing/data-management-and-policies/research-data-management/data-stewardship.html), funded by the [swissuniversities Open Science Programme](https://www.swissuniversities.ch/en/topics/open-science/open-science-programme) | [Global Health Engineering group at ETH Zurich](https://ghe.ethz.ch/)
