@@ -18,6 +18,8 @@ ETH Zurich, CLD Building ([how to find us](https://ghe.ethz.ch/about/how-to-find
 
 A hands-on introduction to using Git and GitHub for collaboration in research, updated from a course previously taught for PhD students. Participants work both through the RStudio interface and at the terminal. Everything runs on local installations, set up as pre-work before the workshop.
 
+More info: <https://github.com/gitforsci-ghe>
+
 This workshop is a prerequisite for Workshop 2.
 
 ### Workshop 2: Agentic coding for collaboration and scientific work
