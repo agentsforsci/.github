@@ -10,7 +10,9 @@ Both workshops are capped at 20 participants and are designed to be taken togeth
 
 ### Workshop 1: Git and GitHub for collaboration in scientific work
 
-**15 July 2026, ETH Zurich, half day**
+**15 July 2026, 09:30 to 14:30 (lunch catering included)**
+
+ETH Zurich, CLD Building ([how to find us](https://ghe.ethz.ch/about/how-to-find-us.html))
 
 A hands-on introduction to using Git and GitHub for collaboration in research, updated from a course previously taught for PhD students. Participants work both through the RStudio interface and at the terminal. Everything runs on local installations, set up as pre-work before the workshop.
 
@@ -18,7 +20,9 @@ This workshop is a prerequisite for Workshop 2.
 
 ### Workshop 2: Agentic coding for collaboration and scientific work
 
-**September 2026, full day**
+**September 2026, 08:30 to 17:00 (all-day catering included)**
+
+[Villa Hatt, ETH Zurich](https://ethz.ch/en/campus/access/region-zurich/villa-hatt.html)
 
 A critical, hands-on introduction to agentic coding tools for research: what they do well, where the risks lie, and the do's and don'ts of daily use, including security concerns and personal data.
 
@@ -39,4 +43,12 @@ Together, these make AI-assisted research transparent and reviewable by others, 
 
 ## Reuse
 
-All workshop material in this organization is openly licensed. You are welcome to reuse, adapt, and teach from it. Development of the material is supported by the Data Stewardship Network.
+All workshop material in this organization is openly licensed. You are welcome to reuse, adapt, and teach from it.
+
+## Funding and support
+
+This workshop series is supported by:
+
+- The [Swiss Reproducibility Network (SwissRN)](https://www.swissrn.org/contents/community/nodes/) local node work at ETH Zurich
+- The [Data Stewardship Network at ETH Zurich](https://library.ethz.ch/en/researching-and-publishing/data-management-and-policies/research-data-management/data-stewardship.html), funded by the [swissuniversities Open Science Programme](https://www.swissuniversities.ch/en/topics/open-science/open-science-programme)
+- The [Global Health Engineering group at ETH Zurich](https://ghe.ethz.ch/)
