@@ -1,6 +1,6 @@
 # Agents for Scientists
 
-AI coding agents such as Claude Code are rapidly entering scientific work, but most researchers adopt them without guidance on security, personal data, or good practice. This organization hosts the material for a two-part workshop series on Git and AI-assisted research, along with a practical proposal for making AI assistance in research transparent and reviewable.
+AI coding agents such as Claude Code are rapidly entering scientific work, but most researchers adopt them without guidance on security, personal data, or good practice. This organization hosts the material for a two-part workshop series on Git and AI-assisted research, along with a practical proposal for making AI assistance in research transparent and reviewable. For a blog post on this topic, read on here: <https://ghe.ethz.ch/ghe-blog-news/2026/07/blog-who-wrote-this-scientific-integrity-at-eth-zurich-in-the-age-of-ai.html>
 
 ## The workshop series
 
